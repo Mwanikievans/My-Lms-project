@@ -1,0 +1,1 @@
+console.log('EduLearn LMS loaded');
